@@ -1,0 +1,24 @@
+{
+  "name": "gitgraphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ariv Afonso",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^6.17.2",
+    "@sentry/tracing": "^6.17.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.15",
+    "octokit": "^1.7.1",
+    "passport": "^0.5.0",
+    "passport-gitlab2": "^5.0.0",
+    "underscore": "^1.13.2"
+  }
+}
